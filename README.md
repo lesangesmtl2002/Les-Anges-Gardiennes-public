@@ -1,15 +1,15 @@
 # 🐾 Les Anges Gardiennes
 
-*A boutique sanctuary for pets — where compassion meets excellence.*
+* A team of Angels, devoted to your pets like family, there every day, handling everything pet parents need."*
 
-At **Les Anges Gardiennes**, we believe that every animal deserves care that reflects both **science and soul**.  
-Our philosophy blends expertise, calm, and heartfelt attention to detail — creating an environment where trust and joy flourish.
+At **Les Anges Gardiennes**, we believe that every animal deserves care that reflects both **respect, safety and soul**.  
+Our philosophy blends expertise, calm, and heartfelt attention to detail, creating an environment where trust and joy flourish.
 
 ---
 
 ### 🌸 Our Philosophy
 We approach every pet with empathy and grace.  
-Our goal is to build harmony between care, love, and respect — because well-being is more than comfort; it’s connection.
+Our goal is to build harmony between care, love, and respect, because well-being is more than comfort; it’s connection.
 
 [Read more →](philosophy/introduction.md)
 
@@ -30,4 +30,4 @@ Moments that make hearts melt — explore our visual stories and cherished memor
 
 ---
 
-✨ *Because love, when guided by intention, becomes excellence.*
+✨ *Because Love, when guided by Passion becomes Excellence.*
